@@ -1,0 +1,24 @@
+2021-12-01 11:22:22, interface INFO(1571-140676056225536)<6905434>[86 clientstatuswatcher.cpp run], DisplayName change: 登录用户：dzp -> 登录用户：dzp
+终端任务：正在执行扫描
+
+2021-12-01 11:22:38, interface INFO(1571-140676056225536)<6920964>[49 clientstatuswatcher.cpp run], DisplayName change: 登录用户：dzp
+终端任务：正在执行扫描
+ -> 登录用户：dzp
+2021-12-01 11:22:38, interface INFO(1571-140676056225536)<6920964>[59 clientstatuswatcher.cpp run], state change: oldstate[3], newstate[3]
+2021-12-01 11:22:47, interface INFO(1571-140676056225536)<6930030>[86 clientstatuswatcher.cpp run], DisplayName change: 登录用户：dzp -> 登录用户：dzp
+终端任务：正在执行扫描
+
+2021-12-01 11:28:38, interface INFO(1571-140676056225536)<7281658>[49 clientstatuswatcher.cpp run], DisplayName change: 登录用户：dzp
+终端任务：正在执行扫描
+ -> 登录用户：dzp
+2021-12-01 11:28:38, interface INFO(1571-140676056225536)<7281658>[59 clientstatuswatcher.cpp run], state change: oldstate[3], newstate[3]
+2021-12-01 11:28:42, interface INFO(1571-140676056225536)<7285754>[86 clientstatuswatcher.cpp run], DisplayName change: 登录用户：dzp -> 登录用户：dzp
+终端任务：正在执行扫描
+
+2021-12-01 11:28:53, interface INFO(1571-140676056225536)<7295851>[49 clientstatuswatcher.cpp run], DisplayName change: 登录用户：dzp
+终端任务：正在执行扫描
+ -> 登录用户：dzp
+2021-12-01 11:28:53, interface INFO(1571-140676056225536)<7295852>[59 clientstatuswatcher.cpp run], state change: oldstate[3], newstate[3]
+2021-12-01 11:28:58, interface INFO(1571-140676056225536)<7300864>[86 clientstatuswatcher.cpp run], DisplayName change: 登录用户：dzp -> 登录用户：dzp
+终端任务：正在执行扫描
+
